@@ -1,2 +1,2 @@
-# QiuQiu_QB.github.io
-新手C++
+# QiuQiu_QB's ccccc
+新手C++,欢迎照顾
